@@ -9,7 +9,7 @@ https://www.hackerrank.com/contests/practice-1-sda/challenges
 ##### HW 2 (Sorting)
 https://www.hackerrank.com/contests/practice-2-sda/challenges
 
-##### HW 3
+##### HW 3 (Searches)
 https://www.hackerrank.com/contests/practice-3-sda/challenges
 
 ##### HW 4
