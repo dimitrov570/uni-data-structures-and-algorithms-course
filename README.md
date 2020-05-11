@@ -3,10 +3,10 @@ Materials from Data structures and algorithms course at Sofia University.
 
 
 ## Links to Hackerrank challenges
-##### HW 1
+##### HW 1 (Basic tasks)
 https://www.hackerrank.com/contests/practice-1-sda/challenges
 
-##### HW 2
+##### HW 2 (Sorting)
 https://www.hackerrank.com/contests/practice-2-sda/challenges
 
 ##### HW 3
