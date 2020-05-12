@@ -21,10 +21,10 @@ https://www.hackerrank.com/contests/practice-5-sda/challenges
 ##### HW 6 (AVL and Priority queue)
 https://www.hackerrank.com/contests/practice-6-sda/challenges
 
-##### HW 7 (Trie, Map, Unordered map and Rolling hash) 
+##### HW 7 (Trie, Map, Unordered map, Rolling hash) 
 https://www.hackerrank.com/contests/practice-7-sda/challenges
 
-##### HW 8
+##### HW 8 (Graph, DFS, BFS, Dijkstra, Topological sorting)
 https://www.hackerrank.com/contests/practice-8-sda/challenges
 
 ##### HW 9
