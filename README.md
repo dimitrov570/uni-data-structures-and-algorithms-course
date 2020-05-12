@@ -27,5 +27,5 @@ https://www.hackerrank.com/contests/practice-7-sda/challenges
 ##### HW 8 (Graph, DFS, BFS, Dijkstra, Topological sorting)
 https://www.hackerrank.com/contests/practice-8-sda/challenges
 
-##### HW 9
+##### HW 9 (Minimum spanning tree (Kruskal), Floyd–Warshall)
 https://www.hackerrank.com/contests/practice-9-sda/challenges
