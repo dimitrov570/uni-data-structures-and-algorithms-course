@@ -18,7 +18,7 @@ https://www.hackerrank.com/contests/practice-4-sda/challenges
 ##### HW 5 (BST and Queue)
 https://www.hackerrank.com/contests/practice-5-sda/challenges
 
-##### HW 6
+##### HW 6 (AVL and Priority queue)
 https://www.hackerrank.com/contests/practice-6-sda/challenges
 
 ##### HW 7
